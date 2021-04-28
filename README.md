@@ -16,4 +16,6 @@ This project was created to demonstrate a number of data engineering and data an
 - Based on the data available, the average temperature for the first week of June (aggregated across all stations) is approximately 74.57 °F.
 
 ## **Important Notes:**
-Source data (SQLite database and .csv files) located in the Resources folder. 
+Source data (SQLite database and .csv files) located in the Resources folder.
+
+A Flask application which connects to the SQLite database and generates a landing page and pre-defined static routes is located in the app.py file.
